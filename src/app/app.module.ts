@@ -12,7 +12,7 @@ import { AgmCoreModule } from '@agm/core';
   imports: [
     BrowserModule,
     AgmCoreModule.forRoot({
-      apiKey: ''
+      apiKey: 'AIzaSyCAwsVPbcZHHPQPul3giA9QpMdi2KvPKd8s'
     })
   ],
   providers: [],

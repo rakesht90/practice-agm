@@ -9,4 +9,8 @@ export class AppComponent {
   title = 'practice';
   lat = 51.678418;
   lng = 7.809007;
+  
+  choseLocation(event: any) {
+    console.log(event);
+  }
 }
